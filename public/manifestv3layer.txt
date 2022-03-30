@@ -1,0 +1,8 @@
+"start_url": ".",
+"theme_color": "#000000",
+"display": "standalone",
+"background_color": "#ffffff",
+"action": {
+	"default_popup": "index.html",
+	"default_title": "Open the popup"
+},
